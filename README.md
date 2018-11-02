@@ -1,7 +1,7 @@
-## DSGE-Agricultural-Choice
+# DSGE-Agricultural-Choice
 Data, code and documents on my thesis work: Model in agricultural choices under incomplete markets.  Data from the UNPS (LSMS-ISA). Code in python.
 
-#Folder Python code contains:
+## Folder Python code contains:
 The code to solve the household problem in a 2-period model:
 2_period_model.py
 2_period_model_changes_in_risk.py
@@ -21,6 +21,6 @@ agric_data_UGA11.py
 agric_data_UGA13.py
 agric_data_join.py
 
-# Data folder
+## Data folder
 
 
