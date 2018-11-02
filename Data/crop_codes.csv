@@ -1,0 +1,55 @@
+Crop_ID,crop_name
+111,Wheat
+112,Barley
+120,Rice
+130,Maize
+141,Finger Millet
+150,Sorghum
+210,Beans
+221,Field Peas
+222,Cow Peas
+223,Pigeon Peas
+224,Chick Peas
+310,Groundnuts
+320,Soya Beans
+330,Sun Flower
+340,SimSim
+410,Cabbage
+420,Tomatoes
+430,Carrots
+440,Onions
+450,Pumpkins
+460,Dodo
+470,Eggplants
+480,Cucumber
+490,Green pepper
+510,Sugarcane
+520,Cotton
+530,Tobacco
+610,Irish Potatoes
+620,Sweet Potatoes
+630,Cassava
+640,Yam
+650,Coco Yam
+700,Oranges
+710,Pawpaw
+720,Pineapples
+741,Banana Food
+742,Banana Beer
+744,Banana Sweet
+750,Mango
+760,Jackfruit
+770,Avocado
+780,Passion Fruit
+790,Watermelon
+810,Coffee All
+811,
+812,
+820,Cocoa
+830,Tea
+840,Ginger
+850,Tumeric
+860,Oil Palm
+870,Vanilla
+880,Black Wattle
+890,Other
